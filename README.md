@@ -1,6 +1,6 @@
-                                                             🚀 **Bytewise Internship in ML/DL** 🧠✨
+🚀 **Bytewise Internship in ML/DL** 🧠✨
 
-                                                                🌟 Exciting Opportunity Alert! 🌟
+🌟 Exciting Opportunity Alert! 🌟
 
 🔍 Internship Track: Machine Learning & Deep Learning
 📅 Duration: 3 Months
