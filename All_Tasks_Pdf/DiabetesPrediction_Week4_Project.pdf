@@ -1,0 +1,29 @@
+Predicting Diabetes Onset Based on Health Data
+
+Description:
+
+To predict the onset of diabetes in individuals based on various health indicators using a dataset of medical measurements.
+
+Dataset:
+
+The diabetes dataset contains the following columns:
+
+Pregnancies
+Glucose
+BloodPressure
+SkinThickness
+Insulin
+BMI (Body Mass Index)
+DiabetesPedigreeFunction (a function which scores likelihood of diabetes based on family history)
+Age
+Diabetes (outcome variable: 0 indicates no diabetes, 1 indicates diabetes)
+Techniques Used:
+
+- Linear Regression
+
+- Data Visualization
+
+- Basic Statistics
+
+- Probability Theory
+
